@@ -12,9 +12,9 @@ export const ProductPrice = ({
         <>
            <Title
                 level={3}
-                type='danger'
+                className='mg-top-0 mg-10'
            >
-                {currentPrice} ₽
+                {currentPrice} руб./шт.
             </Title> 
         </>
     );

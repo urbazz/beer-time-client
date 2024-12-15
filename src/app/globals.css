@@ -12,6 +12,14 @@
   padding: 0 15px;
 }
 
+.mg-top-0 {
+  margin-top: 0;
+}
+
+.mg-10 {
+  margin: 10px 0;
+}
+
 .main {
   min-height: 76vh;
 }
